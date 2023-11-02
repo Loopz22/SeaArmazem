@@ -1,0 +1,23 @@
+Config:
+  logs-errors: false
+  logs-tps: false
+  logs-ping: false
+Debugs:
+  debug-active-ability: false
+  debug-expired-ability: false
+  debug-levelup-ability: false
+  debug-cooldown=ability: false
+  debug-select-champion: false
+  debug-ban-champion: false
+  debug-kill-champion: false
+  debug=death=champion: false
+  debug-respawn-champion: false
+  debug-destroy-tower: false
+  debug-destroy-nexus: false
+  debug-winner-team: false
+  debug-loser-team: false
+  debug=join-game: false
+  debug=load=game: false
+  debug-start-game: false
+  debug-quit-game: false
+  debug-end-game: false
